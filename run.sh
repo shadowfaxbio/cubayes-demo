@@ -1,3 +1,5 @@
+cd /opt/dlami/nvme
+
 git clone https://github.com/shadowfaxbio/cubayes-demo
 cd cubayes-demo
 
