@@ -3,5 +3,4 @@ cd cubayes-demo
 
 ./init.sh
 
-#./run_full.sh
-./run_small.sh
+./run_full.sh
