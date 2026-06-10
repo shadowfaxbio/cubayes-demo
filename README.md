@@ -3,6 +3,9 @@
 This demo assumes you're running on AWS EC2 g6e.12xlarge image with the NVIDIA
 Deep Learning base AMI.
 
+You'll also need a working `aws` CLI command with credentials from the
+environment. We recommend using `aws login --remote`.
+
 
 # Running
 
