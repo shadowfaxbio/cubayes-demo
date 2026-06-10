@@ -1,5 +1,5 @@
 mkdir -p data
-aws s3 sync s3://cubayes-demo-data/giab data/
+aws s3 sync s3://cubayes-demo-data/giab data/giab
 
 ./nextflow run cubayes.nf \
     --sample HG002 \
